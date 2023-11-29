@@ -24,8 +24,11 @@ The proposed U-Net leverages dual attention modules to improve retinal image seg
   
 ## Training Methodology
 Dataset: https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel
+
 Data Split: 80% of the images were used for training, while 20% were allocated for testing.
+
 Optimization: Adam optimizer with BCE+DiceLoss was employed, resulting in remarkable metrics.
+
 model :unet along with attention module
 ## Model Performance
 The model demonstrated robust performance in retinal segmentation tasks, exhibiting the following metrics:
