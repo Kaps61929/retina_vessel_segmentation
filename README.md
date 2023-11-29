@@ -16,10 +16,10 @@ The proposed U-Net leverages dual attention modules to improve retinal image seg
 
 
 # Results
+![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/c6ff6456-1147-4329-8ac1-be002f9bdebd)
 
-![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/a57b05e8-ce43-43c5-bb24-f2805757a8c4)
+![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/dd1907f2-0ea7-4c26-b2d8-6823e60a2357)
 
-![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/fb042d92-a304-47db-9a8e-102aaf9dee94)
 
   
 ## Training Methodology
