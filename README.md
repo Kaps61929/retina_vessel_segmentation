@@ -1,4 +1,4 @@
-# retina_vessel_segmentation
+#Retina_vessel_segmentation
 
 ## Overview
 
@@ -6,16 +6,21 @@ Retinal vessel analysis plays a pivotal role in both personal identification and
 This repository showcases a lightweight attention-based U-Net model that significantly enhances retinal image segmentation, enabling the identification of crucial markers for diseases like diabetes and hypertension using Pytorch.
 ## Model Architecture
 The proposed U-Net leverages dual attention modules to improve retinal image segmentation. The use of lightweight components enhances model capability without compromising performance.
+
+
 ![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/f26de308-22fb-408c-b6c7-2d4f911e16f5)
+
 
 ![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/46fb96cb-4c15-47f0-8760-e1d6fa94a764)
 
 
 
 # Results
-<p float="left">
-<img src="https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/a57b05e8-ce43-43c5-bb24-f2805757a8c4" height ="400" width ="200">
-<img src="https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/fb042d92-a304-47db-9a8e-102aaf9dee94" height ="400" width ="200">
+
+![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/a57b05e8-ce43-43c5-bb24-f2805757a8c4)
+
+![image](https://github.com/Kaps61929/retina_vessel_segmentation/assets/115138974/fb042d92-a304-47db-9a8e-102aaf9dee94)
+
   
 ## Training Methodology
 Dataset: https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel
