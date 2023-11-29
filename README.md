@@ -42,6 +42,7 @@ Accuracy: 96.25%
 
 ## Resources
 Kaggle - [Retina Blood Vessel Dataset](https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel)
+
 Research paper-https://ieeexplore.ieee.org/document/9091247
 
 ## File Architecture
@@ -49,12 +50,17 @@ This repository contains the following files and directories:
 
 ### Notebooks
 -data.ipynb: Extracts data from the 'Data1' folder.
+
 -loss.ipynb: Implements the loss function using BCE+DiceLoss.
+
 -model.ipynb: Contains the implementation of the U-Net model along with attention modules.
+
 -train.ipynb: Includes the code for the training phase of the model.
+
 -test.ipynb: Comprises the code for the testing phase of the model.
 ### Directories
 results: Contains saved results obtained after testing.
+
 Data1: Directory housing the dataset, which includes images and their corresponding segmentation masks.
 
 
